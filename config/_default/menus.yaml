@@ -1,0 +1,37 @@
+leftnav:
+- identifier: 5e3e7c74-5a38-4d45-ad7d-78e7e1eaedb0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 035994aa-68b0-4602-8ac5-cedd472369fa
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: ec1e33f0-a454-45c4-80ef-fb58703d8516
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 23e8a908-5983-495b-b439-5c598e3b6bfb
+  name: Class Slides
+  pageRef: /lists/class-slides
+  weight: 40
+- identifier: f809c5a5-bdd8-4b1c-977c-e60ec9970b0f
+  name: In-Class Questions and Solutions
+  pageRef: /lists/in-class-questions-and-solutions
+  weight: 50
+- identifier: aae54385-2ab5-43f7-acb3-b7898be84df1
+  name: Problem Sets
+  pageRef: /lists/problem-sets
+  weight: 60
+- identifier: c89ea3c3-84d5-4995-9c5a-7fe79d1c133c
+  name: Exams
+  pageRef: /lists/exams
+  weight: 70
+- identifier: d1616c8c-ad0b-4679-b5a8-4001eaeef45a
+  name: Studio Resources
+  pageRef: /pages/studio-resources
+  weight: 80
+- identifier: c87974e0-c253-4a50-8148-0b92730b0131
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90
